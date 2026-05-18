@@ -176,7 +176,7 @@ function App() {
         <div
           className="
         mt-8 grid grid-cols-1 
-        md-grid-cols-2 lg:grid-cols-3 
+        md:grid-cols-2 lg:grid-cols-3 
         gap-4"
         >
           {[
@@ -296,7 +296,9 @@ function App() {
       {/* Footer */}
       <footer className="border-t border-white/5">
         <div className="mx-auto max-w-6xl px-4 py-8 flex flex-col items-center">
-          <div className="mb-4">Minha Marca @ {new Date().getFullYear()}</div>
+          <div className="mb-4">
+            © {new Date().getFullYear()} Minha Marca
+          </div>
           <a href="#" className="text-slate-300">
             Política de Privacidade
           </a>
