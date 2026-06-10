@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       {/* 1 - Componentes funcionais com TS */}
-      <Greeting name="Matheus" />
+      <Greeting name="Vanessa" />
       {/* 2 - Hooks com tipos */}
       <Counter />
       {/* 3 - Manipulação de eventos com tipos */}

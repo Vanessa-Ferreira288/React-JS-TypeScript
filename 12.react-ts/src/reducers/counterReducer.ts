@@ -1,4 +1,4 @@
-import { CounterAction } from "../types/actions";
+import type { CounterAction } from "../types/actions";
 
 export const counterReducer = (
   state: number,

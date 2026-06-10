@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { TemaContext } from "../context/TemaContext";
 
 const BarraFerramentas = () => {

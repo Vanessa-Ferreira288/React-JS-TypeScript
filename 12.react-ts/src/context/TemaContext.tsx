@@ -1,4 +1,4 @@
-import { createContext, useState, ReactNode } from "react";
+import { createContext, useState, type ReactNode } from "react";
 
 // Definindo o tipo para o estado do tema
 type Tema = "claro" | "escuro";
