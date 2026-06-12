@@ -6,16 +6,16 @@ Durante o curso, foram realizados diversos exercícios práticos e projetos, com
 
 🚀 Conteúdos abordados
 
-Fundamentos do React JS (Componentes e JSX)
-Hooks (useState, useEffect, useReducer, useContext e Custom Hooks)
-Estilização de componentes
-React Router
-Consumo de APIs (Fetch API e Axios)
-Context API
-Integração do React com TypeScript
-Tipos básicos e avançados do TypeScript
-Interfaces, classes e generics
-Compilação de TypeScript para JavaScript
+Fundamentos do React JS (Componentes e JSX);
+ Hooks (useState, useEffect, useReducer, useContext e Custom Hooks);
+ Estilização de componentes;
+ React Router; 
+ Consumo de APIs (Fetch API e Axios);
+ Context API; 
+ Integração do React com TypeScript; 
+ Tipos básicos e avançados do TypeScript;
+ Interfaces, classes e generics;
+ Compilação de TypeScript para JavaScript.
 
 🛠️ Prática constante
 
